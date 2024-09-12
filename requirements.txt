@@ -9,3 +9,4 @@ pymysql
 streamlit-tags
 Pillow
 nltk
+yt-dlp
